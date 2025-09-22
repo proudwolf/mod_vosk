@@ -15,5 +15,5 @@ https://blog.csdn.net/weixin_38921966/article/details/151708447?spm=1001.2014.30
 
 如果有问题需要一起探讨咨询，请扫描加V
 
-![二维码](https://github.com/proudwolf/wixin_erweima/微信二维码.png)
+![二维码](https://github.com/proudwolf/wixin_erweima/blob/main/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
